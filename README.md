@@ -24,5 +24,5 @@ Sou um amante de praias e um destino que sonho em visitar é Jericoacoara. No me
 
 Projetos
 
-Aqui no GitHub, você encontrará alguns dos meus projetos de desenvolvimento e trabalhos acadêmicos. Estou sempre buscando aprender e compartilhar o que sei com a comunidade.
+* Aqui no GitHub, você encontrará alguns dos meus projetos de desenvolvimento e trabalhos acadêmicos. Estou sempre buscando aprender e compartilhar o que sei com a comunidade.
 
