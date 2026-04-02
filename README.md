@@ -77,12 +77,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipesoft&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="110" alt="languages graph"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
