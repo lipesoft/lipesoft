@@ -1,93 +1,94 @@
-<h1 align="left">Hi, I'm Filipe Rodrigues</h1>
+# Filipe Rodrigues
 
-<h3 align="left">
-Software Engineering Student | Backend Developer | Python | SQL | FastAPI <br>
-Brazil - Open to Remote Opportunities
-</h3>
+### Estudante de Engenharia de Software | Desenvolvedor Backend | Python | SQL | FastAPI
 
-<p align="left">
-Backend-focused developer with hands-on experience building REST APIs, working with relational databases, and developing real-world software solutions.
+--- 
 
-Currently working on scalable backend applications using Python, FastAPI, and SQL, with a focus on clean architecture and data-driven systems.
-</p>
+## Sobre Mim
 
----
+Sou um **Estudante de Engenharia de Software** na Universidade Católica do Salvador (UCSAL) e atuo como **Analista de Sistemas** na In9 Mídia Soluções Digitais. Minha paixão reside em construir sistemas backend escaláveis e soluções de software robustas, com foco em **Python**, **FastAPI** e **SQL**.
 
-<h2 align="left">About Me</h2>
+Tenho experiência prática no desenvolvimento de **APIs REST**, modelagem de bancos de dados relacionais e implementação de autenticação segura com JWT. Busco transformar problemas de negócios em soluções de software eficientes, organizadas e escaláveis, sempre aplicando princípios de **arquitetura limpa** e sistemas **orientados a dados**.
 
-<p align="left">
-• Software Engineering Student at Universidade Católica do Salvador <br>
-• Software Development Intern at In9 Mídia Soluções Digitais <br>
-• Focused on Backend Development and Database Systems <br>
-• Experience with REST APIs, CRUD operations, and relational databases <br>
-• Actively seeking Remote Internship Opportunities (Brazil or International)
-</p>
+Atualmente, estou focado em **desenvolvimento backend**, **arquitetura de software** e **cloud computing**, buscando constantemente as melhores práticas de segurança e escalabilidade. Estou aberto a **oportunidades de estágio remoto** (no Brasil ou internacionalmente) onde possa aplicar e expandir minhas habilidades.
 
----
+--- 
 
-<h2 align="left">Currently Working On</h2>
+## Habilidades Técnicas
 
-<p align="left">
-<b>MenuExpress — Digital Menu System (Freelance Project)</b><br>
-Role: Full Stack Developer (Backend Focus)<br><br>
+| Categoria         | Tecnologias                                                              |
+| :---------------- | :----------------------------------------------------------------------- |
+| **Backend**       | Python, FastAPI, Node.js, APIs REST, SQL, PostgreSQL, SQLite, JWT Auth   |
+| **Frontend**      | HTML5, CSS3, JavaScript, React                                           |
+| **Cloud & DevOps**| Docker, Supabase, Render, Cloud Computing, Git, GitHub                   |
+| **Dados & Conceitos**| Power BI, Pandas, Modelagem de Dados, CRUD, Design de API, SaaS/Multi-tenancy, Figma |
 
-Developing a digital menu platform for restaurants focused on real-world business needs.<br>
-Implementing product and category management, responsive interface, and scalable backend architecture.<br>
-Designing relational database structure and API logic to support multiple clients.<br><br>
+--- 
 
-Tech: Python, SQL, SQLite, REST API<br>
-Status: In Development
-</p>
+## Projetos
 
----
+### Autenix - Sistema de Gestão para Restaurantes (Freelance)
 
-<h2 align="left">Featured Projects</h2>
+**Status:** Em Desenvolvimento - Full Stack
 
-<p align="left">
-<b>Async Banking API</b><br>
-Asynchronous RESTful API built with FastAPI and SQLite, including JWT authentication and transaction management.<br><br>
+Um sistema SaaS de gestão completo para restaurantes, desenvolvido individualmente. Inclui cardápio digital, painel do garçom, cozinha em formato Kanban, painel administrativo e modo totem/kiosk para tablets. A arquitetura é multi-tenant, com feature flags por plano e infraestrutura em nuvem via Docker e Supabase.
 
-<b>Habit Tracking System</b><br>
-Backend system with relational database modeling, CRUD operations, and structured application logic.<br><br>
+**Tecnologias:** React, Vite, Node.js, PostgreSQL, Supabase, Docker, Socket.IO
 
-<b>Banking System (OOP)</b><br>
-Python-based banking system applying object-oriented programming principles.
-</p>
+[Ver no GitHub](https://github.com/lipesoft/autenix.git)
 
----
+### Async Banking API
 
-<h2 align="left">Tech Stack</h2>
+**Status:** Concluído
 
-<p align="left">
-Backend: Python • FastAPI • REST APIs • SQL • SQLite <br>
-Frontend: HTML • CSS • JavaScript <br>
-Tools: Git • GitHub • Figma
-</p>
+API bancária assíncrona RESTful construída com FastAPI e SQLite. Implementa autenticação JWT, gerenciamento de transações e operações de conta, com foco em arquitetura limpa e operações assíncronas no banco de dados.
 
----
+**Tecnologias:** Python, FastAPI, SQLite, JWT, Async
 
-<h2 align="left">Connect With Me</h2>
+[Ver no GitHub](https://github.com/lipesoft/bank_api.git)
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/filipe-rodrigues-a79809386/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo" />
-  </a>
-</div>
+### Habit Tracking System
 
----
+**Status:** Concluído
 
-<h2 align="left">Portfolio</h2>
+Aplicação backend para gerenciamento de usuários, hábitos e progresso diário. Apresenta modelagem relacional de banco de dados, operações CRUD e interface via linha de comando.
 
-<p align="left">
-🌐 https://lipesoft.github.io/portifolio/
-</p>
+**Tecnologias:** Python, SQLite, CLI
 
----
+[Ver no GitHub](https://github.com/lipesoft/Habit-tracking-system.git)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lipesoft&layout=compact&theme=onedark&hide_border=true" height="150" />
-</div>
+### Sistema Bancário (POO)
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=gradient" />
-</div>
+**Status:** Concluído
+
+Sistema bancário completo desenvolvido em Python, aplicando princípios de Programação Orientada a Objetos (POO) para criação de contas, depósitos, saques, transferências e histórico de transações.
+
+**Tecnologias:** Python, OOP
+
+[Ver no GitHub](https://github.com/lipesoft/sistema-bancario-poo.git)
+
+--- 
+
+## Certificações
+
+*   **Back-end com Python 2ª Edição** - DIO
+*   **Chatbot com Inteligência Artificial** - Unifel Educação Corporativa
+*   **Curso de JavaScript** - Unifel Educação Corporativa
+*   **Python com Pandas** - Unifel Educação Corporativa
+*   **Curso Completo de Banco de Dados Relacionais** - Udemy
+*   **Ciência da Computação de Harvard no Brasil** - Fundação Estudar
+*   **Modelagem de Dados** - Fundação Bradesco
+*   **Análise de Dados no Power BI** - Fundação Bradesco
+*   **Linguagem de Programação Python** - Fundação Bradesco
+*   **Implementando Banco de Dados** - Fundação Bradesco
+
+--- 
+
+## Conecte-se Comigo
+
+*   **LinkedIn:** [Filipe Rodrigues](https://www.linkedin.com/in/filipe-rodrigues-a79809386)
+*   **GitHub:** [lipesoft](https://github.com/lipesoft)
+*   **Portfólio:** [lipesoft.github.io/portifolio/](https://lipesoft.github.io/portifolio/)
+*   **Email:** f.rodrigues0907@gmail.com
+
+[Download CV](https://lipesoft.github.io/portifolio/assets/Filipe_Rodrigues_cv.pdf)
