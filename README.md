@@ -72,11 +72,9 @@ Sistema bancário completo desenvolvido em Python, aplicando princípios de Prog
 ## Certificações
 
 *   **Back-end com Python 2ª Edição** - DIO
-*   **Chatbot com Inteligência Artificial** - Unifel Educação Corporativa
 *   **Curso de JavaScript** - Unifel Educação Corporativa
 *   **Python com Pandas** - Unifel Educação Corporativa
 *   **Curso Completo de Banco de Dados Relacionais** - Udemy
-*   **Ciência da Computação de Harvard no Brasil** - Fundação Estudar
 *   **Modelagem de Dados** - Fundação Bradesco
 *   **Análise de Dados no Power BI** - Fundação Bradesco
 *   **Linguagem de Programação Python** - Fundação Bradesco
