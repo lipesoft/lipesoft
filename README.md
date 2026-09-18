@@ -14,8 +14,8 @@ Analista de Sistemas na **In9 Mídia Soluções Digitais** e estudante de **Enge
 
 ## Formação recente
 
-- **Itaú - Java com Inteligência Artificial — DIO**: Java, Spring, APIs REST, Inteligência Artificial e AI Agents.
-- **Fundamentos de Java — DIO**: sintaxe, controle de fluxo e Programação Orientada a Objetos.
+- **Itaú - Java com Inteligência Artificial - DIO**: Java, Spring, APIs REST, Inteligência Artificial e AI Agents.
+- **Fundamentos de Java - DIO**: sintaxe, controle de fluxo e Programação Orientada a Objetos.
 
 ## Contato
 
